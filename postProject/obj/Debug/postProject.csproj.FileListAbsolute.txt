@@ -1,0 +1,386 @@
+T:\מדעי המחשב יב\אקסלרד יעל\פרויקטטטטטטטטטטטטטטטט\postProject\postProject\obj\Debug\postProject.csproj.AssemblyReference.cache
+T:\מדעי המחשב יב\אקסלרד יעל\פרויקטטטטטטטטטטטטטטטט\postProject\postProject\obj\Debug\postProject.csproj.SuggestedBindingRedirects.cache
+T:\מדעי המחשב יב\אקסלרד יעל\פרויקטטטטטטטטטטטטטטטט\postProject\postProject\obj\Debug\postProject.Properties.Resources.resources
+T:\מדעי המחשב יב\אקסלרד יעל\פרויקטטטטטטטטטטטטטטטט\postProject\postProject\obj\Debug\postProject.csproj.GenerateResource.cache
+T:\מדעי המחשב יב\אקסלרד יעל\פרויקטטטטטטטטטטטטטטטט\postProject\postProject\obj\Debug\postProject.csproj.CoreCompileInputs.cache
+T:\מדעי המחשב יב\אקסלרד יעל\פרויקטטטטטטטטטטטטטטטט\postProject\postProject\bin\Debug\postProject.exe.config
+T:\מדעי המחשב יב\אקסלרד יעל\פרויקטטטטטטטטטטטטטטטט\postProject\postProject\bin\Debug\postProject.exe
+T:\מדעי המחשב יב\אקסלרד יעל\פרויקטטטטטטטטטטטטטטטט\postProject\postProject\bin\Debug\postProject.pdb
+T:\מדעי המחשב יב\אקסלרד יעל\פרויקטטטטטטטטטטטטטטטט\postProject\postProject\obj\Debug\postProject.Gui.UcBranch.resources
+T:\מדעי המחשב יב\אקסלרד יעל\פרויקטטטטטטטטטטטטטטטט\postProject\postProject\obj\Debug\postProject.Gui.Enter.resources
+T:\מדעי המחשב יב\אקסלרד יעל\פרויקטטטטטטטטטטטטטטטט\postProject\postProject\obj\Debug\postProject.Gui.GetTor.resources
+T:\מדעי המחשב יב\אקסלרד יעל\פרויקטטטטטטטטטטטטטטטט\postProject\postProject\obj\Debug\postProject.Gui.principal.resources
+T:\מדעי המחשב יב\אקסלרד יעל\פרויקטטטטטטטטטטטטטטטט\postProject\postProject\obj\Debug\postProject.exe
+T:\מדעי המחשב יב\אקסלרד יעל\פרויקטטטטטטטטטטטטטטטט\postProject\postProject\obj\Debug\postProject.pdb
+T:\מדעי המחשב יב\אקסלרד יעל\פרויקטטטטטטטטטטטטטטטט\postProject\postProject\obj\Debug\postProject.Form1.resources
+D:\‏‏תיקיה חדשה\פרויקטטטטטטטטטטטטטטטט\postProject\postProject\bin\Debug\postProject.exe.config
+D:\‏‏תיקיה חדשה\פרויקטטטטטטטטטטטטטטטט\postProject\postProject\bin\Debug\postProject.exe
+D:\‏‏תיקיה חדשה\פרויקטטטטטטטטטטטטטטטט\postProject\postProject\bin\Debug\postProject.pdb
+D:\‏‏תיקיה חדשה\פרויקטטטטטטטטטטטטטטטט\postProject\postProject\obj\Debug\postProject.csproj.AssemblyReference.cache
+D:\‏‏תיקיה חדשה\פרויקטטטטטטטטטטטטטטטט\postProject\postProject\obj\Debug\postProject.csproj.SuggestedBindingRedirects.cache
+D:\‏‏תיקיה חדשה\פרויקטטטטטטטטטטטטטטטט\postProject\postProject\obj\Debug\postProject.FormEnter.resources
+D:\‏‏תיקיה חדשה\פרויקטטטטטטטטטטטטטטטט\postProject\postProject\obj\Debug\postProject.Gui.UcBranch.resources
+D:\‏‏תיקיה חדשה\פרויקטטטטטטטטטטטטטטטט\postProject\postProject\obj\Debug\postProject.Gui.FormPrincipal.resources
+D:\‏‏תיקיה חדשה\פרויקטטטטטטטטטטטטטטטט\postProject\postProject\obj\Debug\postProject.Properties.Resources.resources
+D:\‏‏תיקיה חדשה\פרויקטטטטטטטטטטטטטטטט\postProject\postProject\obj\Debug\postProject.csproj.GenerateResource.cache
+D:\‏‏תיקיה חדשה\פרויקטטטטטטטטטטטטטטטט\postProject\postProject\obj\Debug\postProject.csproj.CoreCompileInputs.cache
+D:\‏‏תיקיה חדשה\פרויקטטטטטטטטטטטטטטטט\postProject\postProject\obj\Debug\postProject.exe
+D:\‏‏תיקיה חדשה\פרויקטטטטטטטטטטטטטטטט\postProject\postProject\obj\Debug\postProject.pdb
+T:\מדעי המחשב יב\אקסלרד יעל\‏‏תיקיה חדשה\פרויקטטטטטטטטטטטטטטטט\postProject\postProject\bin\Debug\postProject.exe.config
+T:\מדעי המחשב יב\אקסלרד יעל\‏‏תיקיה חדשה\פרויקטטטטטטטטטטטטטטטט\postProject\postProject\bin\Debug\postProject.exe
+T:\מדעי המחשב יב\אקסלרד יעל\‏‏תיקיה חדשה\פרויקטטטטטטטטטטטטטטטט\postProject\postProject\bin\Debug\postProject.pdb
+T:\מדעי המחשב יב\אקסלרד יעל\‏‏תיקיה חדשה\פרויקטטטטטטטטטטטטטטטט\postProject\postProject\obj\Debug\postProject.FormEnter.resources
+T:\מדעי המחשב יב\אקסלרד יעל\‏‏תיקיה חדשה\פרויקטטטטטטטטטטטטטטטט\postProject\postProject\obj\Debug\postProject.Gui.UcBAdd.resources
+T:\מדעי המחשב יב\אקסלרד יעל\‏‏תיקיה חדשה\פרויקטטטטטטטטטטטטטטטט\postProject\postProject\obj\Debug\postProject.Gui.UcBranch.resources
+T:\מדעי המחשב יב\אקסלרד יעל\‏‏תיקיה חדשה\פרויקטטטטטטטטטטטטטטטט\postProject\postProject\obj\Debug\postProject.Gui.FormPrincipal.resources
+T:\מדעי המחשב יב\אקסלרד יעל\‏‏תיקיה חדשה\פרויקטטטטטטטטטטטטטטטט\postProject\postProject\obj\Debug\postProject.Gui.UcCAdd.resources
+T:\מדעי המחשב יב\אקסלרד יעל\‏‏תיקיה חדשה\פרויקטטטטטטטטטטטטטטטט\postProject\postProject\obj\Debug\postProject.Gui.UcCity.resources
+T:\מדעי המחשב יב\אקסלרד יעל\‏‏תיקיה חדשה\פרויקטטטטטטטטטטטטטטטט\postProject\postProject\obj\Debug\postProject.Gui.UcWAdd.resources
+T:\מדעי המחשב יב\אקסלרד יעל\‏‏תיקיה חדשה\פרויקטטטטטטטטטטטטטטטט\postProject\postProject\obj\Debug\postProject.Gui.UcWorkTime.resources
+T:\מדעי המחשב יב\אקסלרד יעל\‏‏תיקיה חדשה\פרויקטטטטטטטטטטטטטטטט\postProject\postProject\obj\Debug\postProject.Properties.Resources.resources
+T:\מדעי המחשב יב\אקסלרד יעל\‏‏תיקיה חדשה\פרויקטטטטטטטטטטטטטטטט\postProject\postProject\obj\Debug\postProject.csproj.GenerateResource.cache
+T:\מדעי המחשב יב\אקסלרד יעל\‏‏תיקיה חדשה\פרויקטטטטטטטטטטטטטטטט\postProject\postProject\obj\Debug\postProject.csproj.CoreCompileInputs.cache
+T:\מדעי המחשב יב\אקסלרד יעל\‏‏תיקיה חדשה\פרויקטטטטטטטטטטטטטטטט\postProject\postProject\obj\Debug\postProject.exe
+T:\מדעי המחשב יב\אקסלרד יעל\‏‏תיקיה חדשה\פרויקטטטטטטטטטטטטטטטט\postProject\postProject\obj\Debug\postProject.pdb
+T:\מדעי המחשב יב\אקסלרד יעל\‏‏תיקיה חדשה\פרויקטטטטטטטטטטטטטטטט\postProject\postProject\obj\Debug\postProject.Gui.UcClient.resources
+T:\מדעי המחשב יב\אקסלרד יעל\‏‏תיקיה חדשה\פרויקטטטטטטטטטטטטטטטט\postProject\postProject\obj\Debug\postProject.Gui.UcGetTor.resources
+T:\מדעי המחשב יב\אקסלרד יעל\‏‏תיקיה חדשה\פרויקטטטטטטטטטטטטטטטט\postProject\postProject\obj\Debug\postProject.Gui.UcServisKinde.resources
+T:\מדעי המחשב יב\אקסלרד יעל\‏‏תיקיה חדשה\פרויקטטטטטטטטטטטטטטטט\postProject\postProject\obj\Debug\postProject.csproj.AssemblyReference.cache
+T:\מדעי המחשב יב\אקסלרד יעל\‏‏תיקיה חדשה\פרויקטטטטטטטטטטטטטטטט\postProject\postProject\obj\Debug\postProject.csproj.SuggestedBindingRedirects.cache
+T:\מדעי המחשב יב\אקסלרד יעל\‏‏תיקיה חדשה\פרויקטטטטטטטטטטטטטטטט\postProject\postProject\obj\Debug\postProject.Gui.UcSAdd.resources
+D:\‏‏תיקיה חדשה\פרויקטטטטטטטטטטטטטטטט\postProject\postProject\obj\Debug\postProject.Gui.UcBAdd.resources
+D:\‏‏תיקיה חדשה\פרויקטטטטטטטטטטטטטטטט\postProject\postProject\obj\Debug\postProject.Gui.UcCAdd.resources
+D:\‏‏תיקיה חדשה\פרויקטטטטטטטטטטטטטטטט\postProject\postProject\obj\Debug\postProject.Gui.UcCity.resources
+D:\‏‏תיקיה חדשה\פרויקטטטטטטטטטטטטטטטט\postProject\postProject\obj\Debug\postProject.Gui.UcClient.resources
+D:\‏‏תיקיה חדשה\פרויקטטטטטטטטטטטטטטטט\postProject\postProject\obj\Debug\postProject.Gui.UcGetTor.resources
+D:\‏‏תיקיה חדשה\פרויקטטטטטטטטטטטטטטטט\postProject\postProject\obj\Debug\postProject.Gui.UcSAdd.resources
+D:\‏‏תיקיה חדשה\פרויקטטטטטטטטטטטטטטטט\postProject\postProject\obj\Debug\postProject.Gui.UcServisKinde.resources
+D:\‏‏תיקיה חדשה\פרויקטטטטטטטטטטטטטטטט\postProject\postProject\obj\Debug\postProject.Gui.UcWAdd.resources
+D:\‏‏תיקיה חדשה\פרויקטטטטטטטטטטטטטטטט\postProject\postProject\obj\Debug\postProject.Gui.UcWorkTime.resources
+T:\מדעי המחשב יב\אקסלרד יעל\‏‏תיקיה חדשה\פרויקטטטטטטטטטטטטטטטט\postProject\postProject\obj\Debug\postProject.Gui.FormClient.resources
+T:\מדעי המחשב יב\אקסלרד יעל\‏‏תיקיה חדשה\פרויקטטטטטטטטטטטטטטטט\postProject\postProject\obj\Debug\postProject.Gui.UCzGetTor1.resources
+T:\מדעי המחשב יב\אקסלרד יעל\‏‏תיקיה חדשה\פרויקטטטטטטטטטטטטטטטט\postProject\postProject\obj\Debug\postProject.Gui.UCzGetTor2.resources
+T:\מדעי המחשב יב\אקסלרד יעל\‏‏תיקיה חדשה\פרויקטטטטטטטטטטטטטטטט\postProject\postProject\obj\Debug\postProject.Gui.UCzGetTor3.resources
+T:\מדעי המחשב יב\אקסלרד יעל\‏‏תיקיה חדשה\פרויקטטטטטטטטטטטטטטטט\postProject\postProject\obj\Debug\postProject.Gui.UCzLookAfter.resources
+D:\‏‏תיקיה חדשה\פרויקטטטטטטטטטטטטטטטט\postProject\postProject\obj\Debug\postProject.Gui.FormClient.resources
+D:\‏‏תיקיה חדשה\פרויקטטטטטטטטטטטטטטטט\postProject\postProject\obj\Debug\postProject.Gui.UCzGetTor1.resources
+D:\‏‏תיקיה חדשה\פרויקטטטטטטטטטטטטטטטט\postProject\postProject\obj\Debug\postProject.Gui.UCzGetTor2.resources
+D:\‏‏תיקיה חדשה\פרויקטטטטטטטטטטטטטטטט\postProject\postProject\obj\Debug\postProject.Gui.UCzGetTor3.resources
+D:\‏‏תיקיה חדשה\פרויקטטטטטטטטטטטטטטטט\postProject\postProject\obj\Debug\postProject.Gui.UCzLookAfter.resources
+D:\postProject\postProject\bin\Debug\postProject.exe.config
+D:\postProject\postProject\bin\Debug\postProject.exe
+D:\postProject\postProject\bin\Debug\postProject.pdb
+D:\postProject\postProject\obj\Debug\postProject.csproj.AssemblyReference.cache
+D:\postProject\postProject\obj\Debug\postProject.csproj.SuggestedBindingRedirects.cache
+D:\postProject\postProject\obj\Debug\postProject.FormEnter.resources
+D:\postProject\postProject\obj\Debug\postProject.Gui.UcBAdd.resources
+D:\postProject\postProject\obj\Debug\postProject.Gui.UcBranch.resources
+D:\postProject\postProject\obj\Debug\postProject.Gui.UcCAdd.resources
+D:\postProject\postProject\obj\Debug\postProject.Gui.UcCity.resources
+D:\postProject\postProject\obj\Debug\postProject.Gui.UcClient.resources
+D:\postProject\postProject\obj\Debug\postProject.Gui.UcGetTor.resources
+D:\postProject\postProject\obj\Debug\postProject.Gui.UcSAdd.resources
+D:\postProject\postProject\obj\Debug\postProject.Gui.UcServisKinde.resources
+D:\postProject\postProject\obj\Debug\postProject.Gui.UcWAdd.resources
+D:\postProject\postProject\obj\Debug\postProject.Gui.UcWorkTime.resources
+D:\postProject\postProject\obj\Debug\postProject.Gui.UCzGetTor1.resources
+D:\postProject\postProject\obj\Debug\postProject.Gui.UCzGetTor2.resources
+D:\postProject\postProject\obj\Debug\postProject.Gui.UCzGetTor3.resources
+D:\postProject\postProject\obj\Debug\postProject.Gui.UCzLookAfter.resources
+D:\postProject\postProject\obj\Debug\postProject.Properties.Resources.resources
+D:\postProject\postProject\obj\Debug\postProject.csproj.GenerateResource.cache
+D:\postProject\postProject\obj\Debug\postProject.csproj.CoreCompileInputs.cache
+D:\postProject\postProject\obj\Debug\postProject.exe
+D:\postProject\postProject\obj\Debug\postProject.pdb
+T:\מדעי המחשב יב\אקסלרד יעל\postProject\postProject\bin\Debug\postProject.exe.config
+T:\מדעי המחשב יב\אקסלרד יעל\postProject\postProject\bin\Debug\postProject.exe
+T:\מדעי המחשב יב\אקסלרד יעל\postProject\postProject\bin\Debug\postProject.pdb
+T:\מדעי המחשב יב\אקסלרד יעל\postProject\postProject\obj\Debug\postProject.csproj.AssemblyReference.cache
+T:\מדעי המחשב יב\אקסלרד יעל\postProject\postProject\obj\Debug\postProject.csproj.SuggestedBindingRedirects.cache
+T:\מדעי המחשב יב\אקסלרד יעל\postProject\postProject\obj\Debug\postProject.FormEnter.resources
+T:\מדעי המחשב יב\אקסלרד יעל\postProject\postProject\obj\Debug\postProject.Gui.UcBAdd.resources
+T:\מדעי המחשב יב\אקסלרד יעל\postProject\postProject\obj\Debug\postProject.Gui.UcBranch.resources
+T:\מדעי המחשב יב\אקסלרד יעל\postProject\postProject\obj\Debug\postProject.Gui.UcCAdd.resources
+T:\מדעי המחשב יב\אקסלרד יעל\postProject\postProject\obj\Debug\postProject.Gui.UcCity.resources
+T:\מדעי המחשב יב\אקסלרד יעל\postProject\postProject\obj\Debug\postProject.Gui.UcClient.resources
+T:\מדעי המחשב יב\אקסלרד יעל\postProject\postProject\obj\Debug\postProject.Gui.UcGetTor.resources
+T:\מדעי המחשב יב\אקסלרד יעל\postProject\postProject\obj\Debug\postProject.Gui.UcSAdd.resources
+T:\מדעי המחשב יב\אקסלרד יעל\postProject\postProject\obj\Debug\postProject.Gui.UcServisKinde.resources
+T:\מדעי המחשב יב\אקסלרד יעל\postProject\postProject\obj\Debug\postProject.Gui.UcWAdd.resources
+T:\מדעי המחשב יב\אקסלרד יעל\postProject\postProject\obj\Debug\postProject.Gui.UcWorkTime.resources
+T:\מדעי המחשב יב\אקסלרד יעל\postProject\postProject\obj\Debug\postProject.Gui.UCzGetTor1.resources
+T:\מדעי המחשב יב\אקסלרד יעל\postProject\postProject\obj\Debug\postProject.Gui.UCzGetTor2.resources
+T:\מדעי המחשב יב\אקסלרד יעל\postProject\postProject\obj\Debug\postProject.Gui.UCzGetTor3.resources
+T:\מדעי המחשב יב\אקסלרד יעל\postProject\postProject\obj\Debug\postProject.Gui.UCzLookAfter.resources
+T:\מדעי המחשב יב\אקסלרד יעל\postProject\postProject\obj\Debug\postProject.Properties.Resources.resources
+T:\מדעי המחשב יב\אקסלרד יעל\postProject\postProject\obj\Debug\postProject.csproj.GenerateResource.cache
+T:\מדעי המחשב יב\אקסלרד יעל\postProject\postProject\obj\Debug\postProject.csproj.CoreCompileInputs.cache
+T:\מדעי המחשב יב\אקסלרד יעל\postProject\postProject\obj\Debug\postProject.exe
+T:\מדעי המחשב יב\אקסלרד יעל\postProject\postProject\obj\Debug\postProject.pdb
+T:\מדעי המחשב יב\אקסלרד יעל\postProject\postProject\obj\Debug\postProject.Gui.UCzGetTor4.resources
+T:\מדעי המחשב יב\אקסלרד יעל\postProject\postProject\obj\Debug\postProject.Gui.UCzGetTor5.resources
+F:\postProject\postProject\bin\Debug\postProject.exe.config
+F:\postProject\postProject\bin\Debug\postProject.exe
+F:\postProject\postProject\bin\Debug\postProject.pdb
+F:\postProject\postProject\obj\Debug\postProject.csprojAssemblyReference.cache
+F:\postProject\postProject\obj\Debug\postProject.FormEnter.resources
+F:\postProject\postProject\obj\Debug\postProject.Gui.UcBAdd.resources
+F:\postProject\postProject\obj\Debug\postProject.Gui.UcBranch.resources
+F:\postProject\postProject\obj\Debug\postProject.Gui.UcCAdd.resources
+F:\postProject\postProject\obj\Debug\postProject.Gui.UcCity.resources
+F:\postProject\postProject\obj\Debug\postProject.Gui.UcClient.resources
+F:\postProject\postProject\obj\Debug\postProject.Gui.UCzFclient.resources
+F:\postProject\postProject\obj\Debug\postProject.Gui.UcGetTor.resources
+F:\postProject\postProject\obj\Debug\postProject.Gui.UcSAdd.resources
+F:\postProject\postProject\obj\Debug\postProject.Gui.UcServisKinde.resources
+F:\postProject\postProject\obj\Debug\postProject.Gui.UcWAdd.resources
+F:\postProject\postProject\obj\Debug\postProject.Gui.UcWorkTime.resources
+F:\postProject\postProject\obj\Debug\postProject.Gui.UCzGetTor1.resources
+F:\postProject\postProject\obj\Debug\postProject.Gui.UCzGetTor2.resources
+F:\postProject\postProject\obj\Debug\postProject.Gui.UCzGetTor3.resources
+F:\postProject\postProject\obj\Debug\postProject.Gui.UCzGetTor4.resources
+F:\postProject\postProject\obj\Debug\postProject.Gui.UCzGetTor5.resources
+F:\postProject\postProject\obj\Debug\postProject.Gui.UCzLookAfter.resources
+F:\postProject\postProject\obj\Debug\postProject.Properties.Resources.resources
+F:\postProject\postProject\obj\Debug\postProject.csproj.GenerateResource.cache
+F:\postProject\postProject\obj\Debug\postProject.csproj.CoreCompileInputs.cache
+F:\postProject\postProject\obj\Debug\postProject.exe
+F:\postProject\postProject\obj\Debug\postProject.pdb
+D:\postProject\postProject\obj\Debug\postProject.Gui.UCzFclient.resources
+D:\postProject\postProject\obj\Debug\postProject.Gui.UCzGetTor4.resources
+D:\postProject\postProject\obj\Debug\postProject.Gui.UCzGetTor5.resources
+T:\מדעי המחשב יב\אקסלרד יעל\postProject\postProject\obj\Debug\postProject.Gui.UCovForm.resources
+T:\מדעי המחשב יב\אקסלרד יעל\postProject\postProject\obj\Debug\postProject.Gui.UCzFclient.resources
+T:\מדעי המחשב יב\אקסלרד יעל\postProject\postProject\obj\Debug\postProject.Gui.UCovAddOrder.resources
+F:\חדדדדדדדדש\postProject\postProject\obj\Debug\postProject.csprojAssemblyReference.cache
+F:\חדדדדדדדדש\postProject\postProject\obj\Debug\postProject.FormEnter.resources
+F:\חדדדדדדדדש\postProject\postProject\obj\Debug\postProject.Gui.UcBAdd.resources
+F:\חדדדדדדדדש\postProject\postProject\obj\Debug\postProject.Gui.UcBranch.resources
+F:\חדדדדדדדדש\postProject\postProject\obj\Debug\postProject.Gui.FormPrincipal.resources
+F:\חדדדדדדדדש\postProject\postProject\obj\Debug\postProject.Gui.UcCAdd.resources
+F:\חדדדדדדדדש\postProject\postProject\obj\Debug\postProject.Gui.UcCity.resources
+F:\חדדדדדדדדש\postProject\postProject\obj\Debug\postProject.Gui.UcClient.resources
+F:\חדדדדדדדדש\postProject\postProject\obj\Debug\postProject.Gui.UCovAddOrder.resources
+F:\חדדדדדדדדש\postProject\postProject\obj\Debug\postProject.Gui.UCovForm.resources
+F:\חדדדדדדדדש\postProject\postProject\obj\Debug\postProject.Gui.UCzFclient.resources
+F:\חדדדדדדדדש\postProject\postProject\obj\Debug\postProject.Gui.UcGetTor.resources
+F:\חדדדדדדדדש\postProject\postProject\obj\Debug\postProject.Gui.UcSAdd.resources
+F:\חדדדדדדדדש\postProject\postProject\obj\Debug\postProject.Gui.UcServisKinde.resources
+F:\חדדדדדדדדש\postProject\postProject\obj\Debug\postProject.Gui.UcWAdd.resources
+F:\חדדדדדדדדש\postProject\postProject\obj\Debug\postProject.Gui.UcWorkTime.resources
+F:\חדדדדדדדדש\postProject\postProject\obj\Debug\postProject.Gui.UCzGetTor1.resources
+F:\חדדדדדדדדש\postProject\postProject\obj\Debug\postProject.Gui.UCzGetTor2.resources
+F:\חדדדדדדדדש\postProject\postProject\obj\Debug\postProject.Gui.UCzGetTor3.resources
+F:\חדדדדדדדדש\postProject\postProject\obj\Debug\postProject.Gui.UCzGetTor4.resources
+F:\חדדדדדדדדש\postProject\postProject\obj\Debug\postProject.Gui.UCzGetTor5.resources
+F:\חדדדדדדדדש\postProject\postProject\obj\Debug\postProject.Gui.UCzLookAfter.resources
+F:\חדדדדדדדדש\postProject\postProject\obj\Debug\postProject.Properties.Resources.resources
+F:\חדדדדדדדדש\postProject\postProject\obj\Debug\postProject.csproj.GenerateResource.cache
+F:\חדדדדדדדדש\postProject\postProject\obj\Debug\postProject.csproj.CoreCompileInputs.cache
+F:\חדדדדדדדדש\postProject\postProject\obj\Debug\postProject.exe
+F:\חדדדדדדדדש\postProject\postProject\obj\Debug\postProject.pdb
+F:\חדדדדדדדדש\postProject\postProject\bin\Debug\postProject.exe.config
+F:\חדדדדדדדדש\postProject\postProject\bin\Debug\postProject.exe
+F:\חדדדדדדדדש\postProject\postProject\bin\Debug\postProject.pdb
+T:\מדעי המחשב יב\אקסלרד יעל\postProject\postProject\obj\Debug\postProject.Gui.UCovUpdateO.resources
+F:\postProject\postProject\obj\Debug\postProject.Gui.UCovAddOrder.resources
+F:\postProject\postProject\obj\Debug\postProject.Gui.UCovForm.resources
+F:\postProject\postProject\obj\Debug\postProject.Gui.UCovUpdateO.resources
+D:\postProject\postProject\obj\Debug\postProject.Gui.UcCLAdd.resources
+D:\postProject\postProject\obj\Debug\postProject.Gui.UCovAddOrder.resources
+D:\postProject\postProject\obj\Debug\postProject.Gui.UCovForm.resources
+D:\postProject\postProject\obj\Debug\postProject.Gui.UCovUpdateO.resources
+D:\postProject\postProject\obj\Debug\postProject.Gui.UCmainEnter.resources
+T:\מדעי המחשב יב\אקסלרד יעל\postProject\postProject\obj\Debug\postProject.Gui.UcCLAdd.resources
+T:\מדעי המחשב יב\אקסלרד יעל\postProject\postProject\obj\Debug\postProject.Gui.UCmainEnter.resources
+T:\מדעי המחשב יב\אקסלרד יעל\postProject\postProject\obj\Debug\postProject.Gui.UCplaicOfOrder.resources
+T:\מדעי המחשב יב\אקסלרד יעל\postProject\postProject\obj\Debug\postProject.Gui.UCFPrincipl.resources
+F:\postProject\postProject\obj\Debug\postProject.Gui.UcCLAdd.resources
+F:\postProject\postProject\obj\Debug\postProject.Gui.UCFPrincipl.resources
+F:\postProject\postProject\obj\Debug\postProject.Gui.UcGAdd.resources
+F:\postProject\postProject\obj\Debug\postProject.Gui.UCmainEnter.resources
+F:\postProject\postProject\obj\Debug\postProject.Gui.UCplaicOfOrder.resources
+D:\‏‏תיקיה חדשה (2)\postProject\postProject\bin\Debug\postProject.exe.config
+D:\‏‏תיקיה חדשה (2)\postProject\postProject\bin\Debug\postProject.exe
+D:\‏‏תיקיה חדשה (2)\postProject\postProject\bin\Debug\postProject.pdb
+D:\‏‏תיקיה חדשה (2)\postProject\postProject\obj\Debug\postProject.csproj.AssemblyReference.cache
+D:\‏‏תיקיה חדשה (2)\postProject\postProject\obj\Debug\postProject.csproj.SuggestedBindingRedirects.cache
+D:\‏‏תיקיה חדשה (2)\postProject\postProject\obj\Debug\postProject.FormEnter.resources
+D:\‏‏תיקיה חדשה (2)\postProject\postProject\obj\Debug\postProject.Gui.UcBAdd.resources
+D:\‏‏תיקיה חדשה (2)\postProject\postProject\obj\Debug\postProject.Gui.UcBranch.resources
+D:\‏‏תיקיה חדשה (2)\postProject\postProject\obj\Debug\postProject.Gui.UcCAdd.resources
+D:\‏‏תיקיה חדשה (2)\postProject\postProject\obj\Debug\postProject.Gui.UcCity.resources
+D:\‏‏תיקיה חדשה (2)\postProject\postProject\obj\Debug\postProject.Gui.UcCLAdd.resources
+D:\‏‏תיקיה חדשה (2)\postProject\postProject\obj\Debug\postProject.Gui.UcClient.resources
+D:\‏‏תיקיה חדשה (2)\postProject\postProject\obj\Debug\postProject.Gui.UCFPrincipl.resources
+D:\‏‏תיקיה חדשה (2)\postProject\postProject\obj\Debug\postProject.Gui.UCmainEnter.resources
+D:\‏‏תיקיה חדשה (2)\postProject\postProject\obj\Debug\postProject.Gui.UCovAddOrder.resources
+D:\‏‏תיקיה חדשה (2)\postProject\postProject\obj\Debug\postProject.Gui.UCovForm.resources
+D:\‏‏תיקיה חדשה (2)\postProject\postProject\obj\Debug\postProject.Gui.UCovUpdateO.resources
+D:\‏‏תיקיה חדשה (2)\postProject\postProject\obj\Debug\postProject.Gui.UCplaicOfOrder.resources
+D:\‏‏תיקיה חדשה (2)\postProject\postProject\obj\Debug\postProject.Gui.UCzFclient.resources
+D:\‏‏תיקיה חדשה (2)\postProject\postProject\obj\Debug\postProject.Gui.UcGetTor.resources
+D:\‏‏תיקיה חדשה (2)\postProject\postProject\obj\Debug\postProject.Gui.UcSAdd.resources
+D:\‏‏תיקיה חדשה (2)\postProject\postProject\obj\Debug\postProject.Gui.UcServisKinde.resources
+D:\‏‏תיקיה חדשה (2)\postProject\postProject\obj\Debug\postProject.Gui.UcWAdd.resources
+D:\‏‏תיקיה חדשה (2)\postProject\postProject\obj\Debug\postProject.Gui.UcWorkTime.resources
+D:\‏‏תיקיה חדשה (2)\postProject\postProject\obj\Debug\postProject.Gui.UCzGetTor1.resources
+D:\‏‏תיקיה חדשה (2)\postProject\postProject\obj\Debug\postProject.Gui.UCzGetTor2.resources
+D:\‏‏תיקיה חדשה (2)\postProject\postProject\obj\Debug\postProject.Gui.UCzGetTor3.resources
+D:\‏‏תיקיה חדשה (2)\postProject\postProject\obj\Debug\postProject.Gui.UCzGetTor4.resources
+D:\‏‏תיקיה חדשה (2)\postProject\postProject\obj\Debug\postProject.Gui.UCzGetTor5.resources
+D:\‏‏תיקיה חדשה (2)\postProject\postProject\obj\Debug\postProject.Gui.UCzLookAfter.resources
+D:\‏‏תיקיה חדשה (2)\postProject\postProject\obj\Debug\postProject.Properties.Resources.resources
+D:\‏‏תיקיה חדשה (2)\postProject\postProject\obj\Debug\postProject.csproj.GenerateResource.cache
+D:\‏‏תיקיה חדשה (2)\postProject\postProject\obj\Debug\postProject.csproj.CoreCompileInputs.cache
+D:\‏‏תיקיה חדשה (2)\postProject\postProject\obj\Debug\postProject.exe
+D:\‏‏תיקיה חדשה (2)\postProject\postProject\obj\Debug\postProject.pdb
+F:\‏‏תיקיה חדשה (2)\postProject\postProject\bin\Debug\postProject.exe.config
+F:\‏‏תיקיה חדשה (2)\postProject\postProject\bin\Debug\postProject.exe
+F:\‏‏תיקיה חדשה (2)\postProject\postProject\bin\Debug\postProject.pdb
+F:\‏‏תיקיה חדשה (2)\postProject\postProject\obj\Debug\postProject.csprojAssemblyReference.cache
+F:\‏‏תיקיה חדשה (2)\postProject\postProject\obj\Debug\postProject.FormEnter.resources
+F:\‏‏תיקיה חדשה (2)\postProject\postProject\obj\Debug\postProject.Gui.UcBAdd.resources
+F:\‏‏תיקיה חדשה (2)\postProject\postProject\obj\Debug\postProject.Gui.UcBranch.resources
+F:\‏‏תיקיה חדשה (2)\postProject\postProject\obj\Debug\postProject.Gui.UcCAdd.resources
+F:\‏‏תיקיה חדשה (2)\postProject\postProject\obj\Debug\postProject.Gui.UcCity.resources
+F:\‏‏תיקיה חדשה (2)\postProject\postProject\obj\Debug\postProject.Gui.UcCLAdd.resources
+F:\‏‏תיקיה חדשה (2)\postProject\postProject\obj\Debug\postProject.Gui.UcClient.resources
+F:\‏‏תיקיה חדשה (2)\postProject\postProject\obj\Debug\postProject.Gui.UCFPrincipl.resources
+F:\‏‏תיקיה חדשה (2)\postProject\postProject\obj\Debug\postProject.Gui.UcGAdd.resources
+F:\‏‏תיקיה חדשה (2)\postProject\postProject\obj\Debug\postProject.Gui.UCmainEnter.resources
+F:\‏‏תיקיה חדשה (2)\postProject\postProject\obj\Debug\postProject.Gui.UCovAddOrder.resources
+F:\‏‏תיקיה חדשה (2)\postProject\postProject\obj\Debug\postProject.Gui.UCovForm.resources
+F:\‏‏תיקיה חדשה (2)\postProject\postProject\obj\Debug\postProject.Gui.UCovUpdateO.resources
+F:\‏‏תיקיה חדשה (2)\postProject\postProject\obj\Debug\postProject.Gui.UCplaicOfOrder.resources
+F:\‏‏תיקיה חדשה (2)\postProject\postProject\obj\Debug\postProject.Gui.UCzFclient.resources
+F:\‏‏תיקיה חדשה (2)\postProject\postProject\obj\Debug\postProject.Gui.UcGetTor.resources
+F:\‏‏תיקיה חדשה (2)\postProject\postProject\obj\Debug\postProject.Gui.UcSAdd.resources
+F:\‏‏תיקיה חדשה (2)\postProject\postProject\obj\Debug\postProject.Gui.UcServisKinde.resources
+F:\‏‏תיקיה חדשה (2)\postProject\postProject\obj\Debug\postProject.Gui.UcWAdd.resources
+F:\‏‏תיקיה חדשה (2)\postProject\postProject\obj\Debug\postProject.Gui.UcWorkTime.resources
+F:\‏‏תיקיה חדשה (2)\postProject\postProject\obj\Debug\postProject.Gui.UCzGetTor1.resources
+F:\‏‏תיקיה חדשה (2)\postProject\postProject\obj\Debug\postProject.Gui.UCzGetTor2.resources
+F:\‏‏תיקיה חדשה (2)\postProject\postProject\obj\Debug\postProject.Gui.UCzGetTor3.resources
+F:\‏‏תיקיה חדשה (2)\postProject\postProject\obj\Debug\postProject.Gui.UCzGetTor4.resources
+F:\‏‏תיקיה חדשה (2)\postProject\postProject\obj\Debug\postProject.Gui.UCzGetTor5.resources
+F:\‏‏תיקיה חדשה (2)\postProject\postProject\obj\Debug\postProject.Gui.UCzLookAfter.resources
+F:\‏‏תיקיה חדשה (2)\postProject\postProject\obj\Debug\postProject.Properties.Resources.resources
+F:\‏‏תיקיה חדשה (2)\postProject\postProject\obj\Debug\postProject.csproj.GenerateResource.cache
+F:\‏‏תיקיה חדשה (2)\postProject\postProject\obj\Debug\postProject.csproj.CoreCompileInputs.cache
+F:\‏‏תיקיה חדשה (2)\postProject\postProject\obj\Debug\postProject.exe
+F:\‏‏תיקיה חדשה (2)\postProject\postProject\obj\Debug\postProject.pdb
+D:\postProject\postProject\obj\Debug\postProject.Gui.UCFPrincipl.resources
+D:\postProject\postProject\obj\Debug\postProject.Gui.UCplaicOfOrder.resources
+D:\‏‏תיקיה חדשה (2)\postProject\postProject\obj\Debug\postProject.Gui.UCTCencel.resources
+T:\מדעי המחשב יב\אקסלרד יעל\‏‏תיקיה חדשה (2)\postProject\postProject\bin\Debug\postProject.exe.config
+T:\מדעי המחשב יב\אקסלרד יעל\‏‏תיקיה חדשה (2)\postProject\postProject\bin\Debug\postProject.exe
+T:\מדעי המחשב יב\אקסלרד יעל\‏‏תיקיה חדשה (2)\postProject\postProject\bin\Debug\postProject.pdb
+T:\מדעי המחשב יב\אקסלרד יעל\‏‏תיקיה חדשה (2)\postProject\postProject\obj\Debug\postProject.csproj.AssemblyReference.cache
+T:\מדעי המחשב יב\אקסלרד יעל\‏‏תיקיה חדשה (2)\postProject\postProject\obj\Debug\postProject.csproj.SuggestedBindingRedirects.cache
+T:\מדעי המחשב יב\אקסלרד יעל\‏‏תיקיה חדשה (2)\postProject\postProject\obj\Debug\postProject.FormEnter.resources
+T:\מדעי המחשב יב\אקסלרד יעל\‏‏תיקיה חדשה (2)\postProject\postProject\obj\Debug\postProject.Gui.UcBAdd.resources
+T:\מדעי המחשב יב\אקסלרד יעל\‏‏תיקיה חדשה (2)\postProject\postProject\obj\Debug\postProject.Gui.UcBranch.resources
+T:\מדעי המחשב יב\אקסלרד יעל\‏‏תיקיה חדשה (2)\postProject\postProject\obj\Debug\postProject.Gui.UcCAdd.resources
+T:\מדעי המחשב יב\אקסלרד יעל\‏‏תיקיה חדשה (2)\postProject\postProject\obj\Debug\postProject.Gui.UcCity.resources
+T:\מדעי המחשב יב\אקסלרד יעל\‏‏תיקיה חדשה (2)\postProject\postProject\obj\Debug\postProject.Gui.UcCLAdd.resources
+T:\מדעי המחשב יב\אקסלרד יעל\‏‏תיקיה חדשה (2)\postProject\postProject\obj\Debug\postProject.Gui.UcClient.resources
+T:\מדעי המחשב יב\אקסלרד יעל\‏‏תיקיה חדשה (2)\postProject\postProject\obj\Debug\postProject.Gui.UCFPrincipl.resources
+T:\מדעי המחשב יב\אקסלרד יעל\‏‏תיקיה חדשה (2)\postProject\postProject\obj\Debug\postProject.Gui.UCmainEnter.resources
+T:\מדעי המחשב יב\אקסלרד יעל\‏‏תיקיה חדשה (2)\postProject\postProject\obj\Debug\postProject.Gui.UCovAddOrder.resources
+T:\מדעי המחשב יב\אקסלרד יעל\‏‏תיקיה חדשה (2)\postProject\postProject\obj\Debug\postProject.Gui.UCovForm.resources
+T:\מדעי המחשב יב\אקסלרד יעל\‏‏תיקיה חדשה (2)\postProject\postProject\obj\Debug\postProject.Gui.UCovUpdateO.resources
+T:\מדעי המחשב יב\אקסלרד יעל\‏‏תיקיה חדשה (2)\postProject\postProject\obj\Debug\postProject.Gui.UCplaicOfOrder.resources
+T:\מדעי המחשב יב\אקסלרד יעל\‏‏תיקיה חדשה (2)\postProject\postProject\obj\Debug\postProject.Gui.UCTCencel.resources
+T:\מדעי המחשב יב\אקסלרד יעל\‏‏תיקיה חדשה (2)\postProject\postProject\obj\Debug\postProject.Gui.UCzFclient.resources
+T:\מדעי המחשב יב\אקסלרד יעל\‏‏תיקיה חדשה (2)\postProject\postProject\obj\Debug\postProject.Gui.UcGetTor.resources
+T:\מדעי המחשב יב\אקסלרד יעל\‏‏תיקיה חדשה (2)\postProject\postProject\obj\Debug\postProject.Gui.UcSAdd.resources
+T:\מדעי המחשב יב\אקסלרד יעל\‏‏תיקיה חדשה (2)\postProject\postProject\obj\Debug\postProject.Gui.UcServisKinde.resources
+T:\מדעי המחשב יב\אקסלרד יעל\‏‏תיקיה חדשה (2)\postProject\postProject\obj\Debug\postProject.Gui.UcWAdd.resources
+T:\מדעי המחשב יב\אקסלרד יעל\‏‏תיקיה חדשה (2)\postProject\postProject\obj\Debug\postProject.Gui.UcWorkTime.resources
+T:\מדעי המחשב יב\אקסלרד יעל\‏‏תיקיה חדשה (2)\postProject\postProject\obj\Debug\postProject.Gui.UCzGetTor1.resources
+T:\מדעי המחשב יב\אקסלרד יעל\‏‏תיקיה חדשה (2)\postProject\postProject\obj\Debug\postProject.Gui.UCzGetTor2.resources
+T:\מדעי המחשב יב\אקסלרד יעל\‏‏תיקיה חדשה (2)\postProject\postProject\obj\Debug\postProject.Gui.UCzGetTor3.resources
+T:\מדעי המחשב יב\אקסלרד יעל\‏‏תיקיה חדשה (2)\postProject\postProject\obj\Debug\postProject.Gui.UCzGetTor4.resources
+T:\מדעי המחשב יב\אקסלרד יעל\‏‏תיקיה חדשה (2)\postProject\postProject\obj\Debug\postProject.Gui.UCzGetTor5.resources
+T:\מדעי המחשב יב\אקסלרד יעל\‏‏תיקיה חדשה (2)\postProject\postProject\obj\Debug\postProject.Gui.UCzLookAfter.resources
+T:\מדעי המחשב יב\אקסלרד יעל\‏‏תיקיה חדשה (2)\postProject\postProject\obj\Debug\postProject.Properties.Resources.resources
+T:\מדעי המחשב יב\אקסלרד יעל\‏‏תיקיה חדשה (2)\postProject\postProject\obj\Debug\postProject.csproj.GenerateResource.cache
+T:\מדעי המחשב יב\אקסלרד יעל\‏‏תיקיה חדשה (2)\postProject\postProject\obj\Debug\postProject.csproj.CoreCompileInputs.cache
+T:\מדעי המחשב יב\אקסלרד יעל\‏‏תיקיה חדשה (2)\postProject\postProject\obj\Debug\postProject.exe
+T:\מדעי המחשב יב\אקסלרד יעל\‏‏תיקיה חדשה (2)\postProject\postProject\obj\Debug\postProject.pdb
+C:\Users\student\Desktop\postProject\postProject\bin\Debug\postProject.exe.config
+C:\Users\student\Desktop\postProject\postProject\bin\Debug\postProject.exe
+C:\Users\student\Desktop\postProject\postProject\bin\Debug\postProject.pdb
+C:\Users\student\Desktop\postProject\postProject\obj\Debug\postProject.csproj.AssemblyReference.cache
+C:\Users\student\Desktop\postProject\postProject\obj\Debug\postProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\student\Desktop\postProject\postProject\obj\Debug\postProject.FormEnter.resources
+C:\Users\student\Desktop\postProject\postProject\obj\Debug\postProject.Gui.UcBAdd.resources
+C:\Users\student\Desktop\postProject\postProject\obj\Debug\postProject.Gui.UcBranch.resources
+C:\Users\student\Desktop\postProject\postProject\obj\Debug\postProject.Gui.UcCAdd.resources
+C:\Users\student\Desktop\postProject\postProject\obj\Debug\postProject.Gui.UcCity.resources
+C:\Users\student\Desktop\postProject\postProject\obj\Debug\postProject.Gui.UcCLAdd.resources
+C:\Users\student\Desktop\postProject\postProject\obj\Debug\postProject.Gui.UcClient.resources
+C:\Users\student\Desktop\postProject\postProject\obj\Debug\postProject.Gui.UCFPrincipl.resources
+C:\Users\student\Desktop\postProject\postProject\obj\Debug\postProject.Gui.UCmainEnter.resources
+C:\Users\student\Desktop\postProject\postProject\obj\Debug\postProject.Gui.UCovAddOrder.resources
+C:\Users\student\Desktop\postProject\postProject\obj\Debug\postProject.Gui.UCovForm.resources
+C:\Users\student\Desktop\postProject\postProject\obj\Debug\postProject.Gui.UCovUpdateO.resources
+C:\Users\student\Desktop\postProject\postProject\obj\Debug\postProject.Gui.UCplaicOfOrder.resources
+C:\Users\student\Desktop\postProject\postProject\obj\Debug\postProject.Gui.UCTCencel.resources
+C:\Users\student\Desktop\postProject\postProject\obj\Debug\postProject.Gui.UCzFclient.resources
+C:\Users\student\Desktop\postProject\postProject\obj\Debug\postProject.Gui.UcGetTor.resources
+C:\Users\student\Desktop\postProject\postProject\obj\Debug\postProject.Gui.UcSAdd.resources
+C:\Users\student\Desktop\postProject\postProject\obj\Debug\postProject.Gui.UcServisKinde.resources
+C:\Users\student\Desktop\postProject\postProject\obj\Debug\postProject.Gui.UcWAdd.resources
+C:\Users\student\Desktop\postProject\postProject\obj\Debug\postProject.Gui.UcWorkTime.resources
+C:\Users\student\Desktop\postProject\postProject\obj\Debug\postProject.Gui.UCzGetTor1.resources
+C:\Users\student\Desktop\postProject\postProject\obj\Debug\postProject.Gui.UCzGetTor2.resources
+C:\Users\student\Desktop\postProject\postProject\obj\Debug\postProject.Gui.UCzGetTor3.resources
+C:\Users\student\Desktop\postProject\postProject\obj\Debug\postProject.Gui.UCzGetTor4.resources
+C:\Users\student\Desktop\postProject\postProject\obj\Debug\postProject.Gui.UCzGetTor5.resources
+C:\Users\student\Desktop\postProject\postProject\obj\Debug\postProject.Gui.UCzLookAfter.resources
+C:\Users\student\Desktop\postProject\postProject\obj\Debug\postProject.Properties.Resources.resources
+C:\Users\student\Desktop\postProject\postProject\obj\Debug\postProject.csproj.GenerateResource.cache
+C:\Users\student\Desktop\postProject\postProject\obj\Debug\postProject.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\postProject\postProject\obj\Debug\postProject.exe
+C:\Users\student\Desktop\postProject\postProject\obj\Debug\postProject.pdb
+T:\מדעי המחשב יב\אקסלרד יעל\postProject\postProject\obj\Debug\postProject.Gui.UCTCencel.resources
+D:\postProject\postProject\obj\Debug\postProject.Gui.UCTCencel.resources
+D:\postProject\postProject\obj\Debug\postProject.Gui.UcDeliver.resources
+D:\כל דואר ישראל\פרויקט דואר ישראל\postProject\postProject\bin\Debug\postProject.exe.config
+D:\כל דואר ישראל\פרויקט דואר ישראל\postProject\postProject\bin\Debug\postProject.exe
+D:\כל דואר ישראל\פרויקט דואר ישראל\postProject\postProject\bin\Debug\postProject.pdb
+D:\כל דואר ישראל\פרויקט דואר ישראל\postProject\postProject\obj\Debug\postProject.csproj.AssemblyReference.cache
+D:\כל דואר ישראל\פרויקט דואר ישראל\postProject\postProject\obj\Debug\postProject.FormEnter.resources
+D:\כל דואר ישראל\פרויקט דואר ישראל\postProject\postProject\obj\Debug\postProject.Gui.UcBAdd.resources
+D:\כל דואר ישראל\פרויקט דואר ישראל\postProject\postProject\obj\Debug\postProject.Gui.UcBranch.resources
+D:\כל דואר ישראל\פרויקט דואר ישראל\postProject\postProject\obj\Debug\postProject.Gui.UcCAdd.resources
+D:\כל דואר ישראל\פרויקט דואר ישראל\postProject\postProject\obj\Debug\postProject.Gui.UcCity.resources
+D:\כל דואר ישראל\פרויקט דואר ישראל\postProject\postProject\obj\Debug\postProject.Gui.UcCLAdd.resources
+D:\כל דואר ישראל\פרויקט דואר ישראל\postProject\postProject\obj\Debug\postProject.Gui.UcClient.resources
+D:\כל דואר ישראל\פרויקט דואר ישראל\postProject\postProject\obj\Debug\postProject.Gui.UcDeliver.resources
+D:\כל דואר ישראל\פרויקט דואר ישראל\postProject\postProject\obj\Debug\postProject.Gui.UCFPrincipl.resources
+D:\כל דואר ישראל\פרויקט דואר ישראל\postProject\postProject\obj\Debug\postProject.Gui.UCmainEnter.resources
+D:\כל דואר ישראל\פרויקט דואר ישראל\postProject\postProject\obj\Debug\postProject.Gui.UCovAddOrder.resources
+D:\כל דואר ישראל\פרויקט דואר ישראל\postProject\postProject\obj\Debug\postProject.Gui.UCovForm.resources
+D:\כל דואר ישראל\פרויקט דואר ישראל\postProject\postProject\obj\Debug\postProject.Gui.UCovUpdateO.resources
+D:\כל דואר ישראל\פרויקט דואר ישראל\postProject\postProject\obj\Debug\postProject.Gui.UCplaicOfOrder.resources
+D:\כל דואר ישראל\פרויקט דואר ישראל\postProject\postProject\obj\Debug\postProject.Gui.UCTCencel.resources
+D:\כל דואר ישראל\פרויקט דואר ישראל\postProject\postProject\obj\Debug\postProject.Gui.UCzFclient.resources
+D:\כל דואר ישראל\פרויקט דואר ישראל\postProject\postProject\obj\Debug\postProject.Gui.UcGetTor.resources
+D:\כל דואר ישראל\פרויקט דואר ישראל\postProject\postProject\obj\Debug\postProject.Gui.UcSAdd.resources
+D:\כל דואר ישראל\פרויקט דואר ישראל\postProject\postProject\obj\Debug\postProject.Gui.UcServisKinde.resources
+D:\כל דואר ישראל\פרויקט דואר ישראל\postProject\postProject\obj\Debug\postProject.Gui.UcWAdd.resources
+D:\כל דואר ישראל\פרויקט דואר ישראל\postProject\postProject\obj\Debug\postProject.Gui.UcWorkTime.resources
+D:\כל דואר ישראל\פרויקט דואר ישראל\postProject\postProject\obj\Debug\postProject.Gui.UCzGetTor1.resources
+D:\כל דואר ישראל\פרויקט דואר ישראל\postProject\postProject\obj\Debug\postProject.Gui.UCzGetTor2.resources
+D:\כל דואר ישראל\פרויקט דואר ישראל\postProject\postProject\obj\Debug\postProject.Gui.UCzGetTor3.resources
+D:\כל דואר ישראל\פרויקט דואר ישראל\postProject\postProject\obj\Debug\postProject.Gui.UCzGetTor4.resources
+D:\כל דואר ישראל\פרויקט דואר ישראל\postProject\postProject\obj\Debug\postProject.Gui.UCzGetTor5.resources
+D:\כל דואר ישראל\פרויקט דואר ישראל\postProject\postProject\obj\Debug\postProject.Gui.UCzLookAfter.resources
+D:\כל דואר ישראל\פרויקט דואר ישראל\postProject\postProject\obj\Debug\postProject.Properties.Resources.resources
+D:\כל דואר ישראל\פרויקט דואר ישראל\postProject\postProject\obj\Debug\postProject.csproj.GenerateResource.cache
+D:\כל דואר ישראל\פרויקט דואר ישראל\postProject\postProject\obj\Debug\postProject.csproj.CoreCompileInputs.cache
+D:\כל דואר ישראל\פרויקט דואר ישראל\postProject\postProject\obj\Debug\postProject.exe
+D:\כל דואר ישראל\פרויקט דואר ישראל\postProject\postProject\obj\Debug\postProject.pdb

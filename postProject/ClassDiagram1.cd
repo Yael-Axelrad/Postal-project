@@ -1,0 +1,317 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="postProject.Bll.Branch" Collapsed="true">
+    <Position X="16.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAAAABAFAAAQSQAAEFgAABgAAAAAAAAAABA=</HashCode>
+      <FileName>Bll\Branch.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="postProject.Bll.BranchDB">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAEAAAAAAAAAAAAAAAAAACgAAAAAQAAgEAAI=</HashCode>
+      <FileName>Bll\BranchDB.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="postProject.Bll.cityDB">
+    <Position X="5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAEAAAAAAAACAAAQAAAAAAgAAAEAIAAAAAAI=</HashCode>
+      <FileName>Bll\CityDB.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="postProject.Bll.Clients" Collapsed="true">
+    <Position X="18.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAAAACAAAAAgAABAEAgAABQIAAQECABEAAg=</HashCode>
+      <FileName>Bll\Clients.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="postProject.Bll.ClientsDB">
+    <Position X="9.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAEAAAAAACAAAAAAAAAAAAgAAAAAAAAAAAAI=</HashCode>
+      <FileName>Bll\ClientsDB.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="postProject.Bll.Delivers" Collapsed="true">
+    <Position X="21.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAAAAAAEAAAAhAIAEAAAABAAAAACAAKAACA=</HashCode>
+      <FileName>Bll\Delivers.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="postProject.Bll.DeliversDB">
+    <Position X="14" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAEAAAAAAAAAAAAAAAAAACgAAAAAAAAAACAI=</HashCode>
+      <FileName>Bll\DeliversDB.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="postProject.Bll.GetTor" Collapsed="true">
+    <Position X="25.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAACIAAAAAAACAQAAAgUEEAAEBBAIAAQAAAAAAA=</HashCode>
+      <FileName>Bll\GetTor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="postProject.Bll.GetTorDB">
+    <Position X="2.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAEAAAAAAAAAAAAAAQAAIAAAAAAAACAAAAAI=</HashCode>
+      <FileName>Bll\GetTorDB.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="postProject.Bll.ServisKind" Collapsed="true">
+    <Position X="18.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACCAAAAAgAIAAAACCIEAAAiBAAAAAAAAAAAAA=</HashCode>
+      <FileName>Bll\ServisKind.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="postProject.Bll.ServisKindDB">
+    <Position X="7.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAEAAAAAAAAAAAAAAAAAAAgEAAEAAAAAAAAI=</HashCode>
+      <FileName>Bll\ServisKindDB.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="postProject.Bll.WorkTime" Collapsed="true">
+    <Position X="18.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>SAYAIAgGAAAAAgAAQAIAIAAAEAAAAhAAAAAAAAAAAAA=</HashCode>
+      <FileName>Bll\WorkTime.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="postProject.Bll.WorkTimeDB">
+    <Position X="11.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAEAAAAAAAAIAAAAAAAAACgAAAAAAAAAAAAI=</HashCode>
+      <FileName>Bll\WorkTimeDB.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ExampleProject.Bll.GeneralDB" Collapsed="true">
+    <Position X="7.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAA=</HashCode>
+      <FileName>Bll\GeneralDB.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="postProject.Validation" Collapsed="true">
+    <Position X="16.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAAQAAACggCAAEAAGAAAAEAAiQAAACAgABEAAAA=</HashCode>
+      <FileName>Bll\Validation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="postProject.FormEnter" Collapsed="true">
+    <Position X="23.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAACAAAAAAAACAAAACAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>FormEnter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="postProject.Program" Collapsed="true">
+    <Position X="27" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ExampleProject.Data.Dal" Collapsed="true">
+    <Position X="20" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEQAAAAAAAAAAAAAAAAAAQAABABAACAAAAACAAAAAAA=</HashCode>
+      <FileName>Dal.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="postProject.Gui.UcBAdd" Collapsed="true">
+    <Position X="21.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IiQAAAAAgCAIAAAEAADBQAgCiBAgACAACRBACIAcAAE=</HashCode>
+      <FileName>Gui\UcBAdd.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="postProject.Gui.UcBranch" Collapsed="true">
+    <Position X="23.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAQAACAAARAEAAiCAgBCAAggAAAAABAAAAAAAAA=</HashCode>
+      <FileName>Gui\UcBranch.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="postProject.Gui.UcCAdd" Collapsed="true">
+    <Position X="25.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AiABAAAAACAAABAAAADAAAACAAAoACuAABAECAAIAAE=</HashCode>
+      <FileName>Gui\UcCAdd.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="postProject.Gui.UcCity" Collapsed="true">
+    <Position X="27" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EBAAAAAAACAAARAEAAiAAgACAAggAIAAIBAgAAAAAAA=</HashCode>
+      <FileName>Gui\UcCity.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="postProject.Gui.UcCLAdd" Collapsed="true">
+    <Position X="16.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>FiAAAAAAACAIAhAEAADBAABCAADIAACAAEAAAAAQAAA=</HashCode>
+      <FileName>Gui\UcCLAdd.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="postProject.Gui.UcClient" Collapsed="true">
+    <Position X="18.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAACAAIRAEAAiAAgBCAAggAAAAAhAAAAAAAAA=</HashCode>
+      <FileName>Gui\UcClient.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="postProject.Gui.UCFPrincipl" Collapsed="true">
+    <Position X="20" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAABEACACgAABAAAACAAAACBACgAAAAAJAAACACEAA=</HashCode>
+      <FileName>Gui\UCFPrincipl.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="postProject.Gui.UcGetTor" Collapsed="true">
+    <Position X="21.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAARAAAACQAAACAAggAAAAABAAAAAAAAA=</HashCode>
+      <FileName>Gui\UcGetTor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="postProject.Gui.UCmainEnter" Collapsed="true">
+    <Position X="23.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABBAAUQAACAAABAAAACAAAACQAAgACAAABAAAQAAAAA=</HashCode>
+      <FileName>Gui\UCmainEnter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="postProject.Gui.UCovAddOrder" Collapsed="true">
+    <Position X="25.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>9iAAQAAAACBYAhAEAADBAABCAAB4gCiEYCAEAEIcAJA=</HashCode>
+      <FileName>Gui\UCovAddOrder.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="postProject.Gui.UCovForm" Collapsed="true">
+    <Position X="27" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAiAAgACAAAIAQAAAEAAAAAABAA=</HashCode>
+      <FileName>Gui\UCovForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="postProject.Gui.UCovUpdateO" Collapsed="true">
+    <Position X="16.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAUAACAAABAAAACAAAESAAAaAAAAEHACAQAAAAI=</HashCode>
+      <FileName>Gui\UCovUpdateO.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="postProject.Gui.UCplaicOfOrder" Collapsed="true">
+    <Position X="18.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>8hAAAAAAECAGABgAACCAAAESAACKAAAAEFACAQAAAAA=</HashCode>
+      <FileName>Gui\UCplaicOfOrder.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="postProject.Gui.UcSAdd" Collapsed="true">
+    <Position X="20" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AiAIAAAAgCAAAEAAAADAAAACgAAggCAACJBAAIAAAAk=</HashCode>
+      <FileName>Gui\UcSAdd.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="postProject.Gui.UcServisKinde" Collapsed="true">
+    <Position X="21.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAARAABAiAAABCAAggAAAAABAAAAAAAAA=</HashCode>
+      <FileName>Gui\UcServisKinde.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="postProject.Gui.UCTCencel" Collapsed="true">
+    <Position X="23.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAASAAABCAAACAAIBCIAAYAAAAGGAAAQQAAAA=</HashCode>
+      <FileName>Gui\UCTCencel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="postProject.Gui.UcWAdd" Collapsed="true">
+    <Position X="25.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AiABACAAAGABAAAAgADAQECCAAIoAAEAAFgECAAQiAE=</HashCode>
+      <FileName>Gui\UcWAdd.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="postProject.Gui.UcWorkTime" Collapsed="true">
+    <Position X="27" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAACAAARAEAAiAIgBCAAkgAAAAABAAAAAAAAA=</HashCode>
+      <FileName>Gui\UcWorkTime.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="postProject.Gui.UCzFclient" Collapsed="true">
+    <Position X="16.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABCAACAAADAAABAAQADAAAACAAQKAAAAIEAAAAAQAAA=</HashCode>
+      <FileName>Gui\UCzFclient.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="postProject.Gui.UCzGetTor1" Collapsed="true">
+    <Position X="18.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AiQAAAQCgKAEABAAAMCBSAACAJQIAAiACUABAAAcIAE=</HashCode>
+      <FileName>Gui\UCzGetTor1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="postProject.Gui.UCzGetTor2" Collapsed="true">
+    <Position X="20" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AhAAAAQAACAAABAEAACACIACEAAIAAAAAEABABAAgAM=</HashCode>
+      <FileName>Gui\UCzGetTor2.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="postProject.Gui.UCzGetTor3" Collapsed="true">
+    <Position X="21.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AhAAAAAAACAACBAKgACACIACEAAIAAAAAEIBCBAAACA=</HashCode>
+      <FileName>Gui\UCzGetTor3.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="postProject.Gui.UCzGetTor4" Collapsed="true">
+    <Position X="23.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AhAAAAAABCAAABAAAECACIACEAAIBAAAAEABAAQAAAI=</HashCode>
+      <FileName>Gui\UCzGetTor4.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="postProject.Gui.UCzGetTor5" Collapsed="true">
+    <Position X="25.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ADAAAAQAASAAABiAAACAAIBKMAAIAAAAEMAAAQAAAAA=</HashCode>
+      <FileName>Gui\UCzGetTor5.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="postProject.Gui.UCzLookAfter" Collapsed="true">
+    <Position X="27" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>8hAAAAEAECAGABgAASCBEAESAACaAAAAEHACAQAAAAI=</HashCode>
+      <FileName>Gui\UCzLookAfter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="postProject.Properties.Resources" Collapsed="true">
+    <Position X="16.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAgIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="postProject.Properties.Settings" Collapsed="true">
+    <Position X="20" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
